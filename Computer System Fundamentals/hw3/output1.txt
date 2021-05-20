@@ -1,0 +1,13 @@
+Sets: 256
+Blocks: 4
+Bytes: 16
+Allocate?: no-write-allocate
+Write?: write-through
+Type: 1
+Total loads: 318197
+Total stores: 197486
+Load hits: 175740
+Load misses: 142457
+Store hits: 116179
+Store misses: 81307
+Total cycles: 90163740

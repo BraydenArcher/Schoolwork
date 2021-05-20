@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="hw5"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/braydenarcher/Desktop/CSF Homework/hw5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/braydenarcher/Desktop/CSF Homework/hw5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/braydenarcher/Desktop/CSF Homework/hw5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hw5">
+				<Option output="/Users/braydenarcher/Desktop/CSF Homework/hw5/cmake-build-debug/hw5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/braydenarcher/Desktop/CSF Homework/hw5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/braydenarcher/Desktop/CSF Homework/hw5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 hw5"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hw5/fast">
+				<Option output="/Users/braydenarcher/Desktop/CSF Homework/hw5/cmake-build-debug/hw5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/braydenarcher/Desktop/CSF Homework/hw5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/braydenarcher/Desktop/CSF Homework/hw5/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 hw5/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/braydenarcher/Desktop/CSF\ Homework/hw5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/braydenarcher/Desktop/CSF Homework/hw5/Makefile">
+			<Option target="hw5"/>
+		</Unit>
+		<Unit filename="/Users/braydenarcher/Desktop/CSF Homework/hw5/calc.cpp">
+			<Option target="hw5"/>
+		</Unit>
+		<Unit filename="/Users/braydenarcher/Desktop/CSF Homework/hw5/calc.h">
+			<Option target="hw5"/>
+		</Unit>
+		<Unit filename="/Users/braydenarcher/Desktop/CSF Homework/hw5/calcInteractive.c">
+			<Option target="hw5"/>
+		</Unit>
+		<Unit filename="/Users/braydenarcher/Desktop/CSF Homework/hw5/calcServer.c">
+			<Option target="hw5"/>
+		</Unit>
+		<Unit filename="/Users/braydenarcher/Desktop/CSF Homework/hw5/calcTest.c">
+			<Option target="hw5"/>
+		</Unit>
+		<Unit filename="/Users/braydenarcher/Desktop/CSF Homework/hw5/csapp.c">
+			<Option target="hw5"/>
+		</Unit>
+		<Unit filename="/Users/braydenarcher/Desktop/CSF Homework/hw5/csapp.h">
+			<Option target="hw5"/>
+		</Unit>
+		<Unit filename="/Users/braydenarcher/Desktop/CSF Homework/hw5/tctest.c">
+			<Option target="hw5"/>
+		</Unit>
+		<Unit filename="/Users/braydenarcher/Desktop/CSF Homework/hw5/tctest.h">
+			<Option target="hw5"/>
+		</Unit>
+		<Unit filename="/Users/braydenarcher/Desktop/CSF Homework/hw5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

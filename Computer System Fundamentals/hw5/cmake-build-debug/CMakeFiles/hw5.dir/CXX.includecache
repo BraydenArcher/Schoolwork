@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/braydenarcher/Desktop/CSF Homework/hw5/calc.cpp
+calc.h
+/Users/braydenarcher/Desktop/CSF Homework/hw5/calc.h
+map
+-
+vector
+-
+string
+-
+sstream
+-
+iostream
+-
+
+/Users/braydenarcher/Desktop/CSF Homework/hw5/calc.h
+

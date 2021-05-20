@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/braydenarcher/Desktop/CSF Homework/hw3/Block.cpp
+Block.h
+/Users/braydenarcher/Desktop/CSF Homework/hw3/Block.h
+
+/Users/braydenarcher/Desktop/CSF Homework/hw3/Block.h
+vector
+-
+
+/Users/braydenarcher/Desktop/CSF Homework/hw3/Cache.cpp
+Cache.h
+/Users/braydenarcher/Desktop/CSF Homework/hw3/Cache.h
+string
+-
+iostream
+-
+
+/Users/braydenarcher/Desktop/CSF Homework/hw3/Cache.h
+Set.h
+/Users/braydenarcher/Desktop/CSF Homework/hw3/Set.h
+vector
+-
+string
+-
+
+/Users/braydenarcher/Desktop/CSF Homework/hw3/Set.cpp
+Set.h
+/Users/braydenarcher/Desktop/CSF Homework/hw3/Set.h
+
+/Users/braydenarcher/Desktop/CSF Homework/hw3/Set.h
+Block.h
+/Users/braydenarcher/Desktop/CSF Homework/hw3/Block.h
+vector
+-
+
+/Users/braydenarcher/Desktop/CSF Homework/hw3/cache.h
+Set.h
+/Users/braydenarcher/Desktop/CSF Homework/hw3/Set.h
+vector
+-
+string
+-
+
+/Users/braydenarcher/Desktop/CSF Homework/hw3/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+cache.h
+/Users/braydenarcher/Desktop/CSF Homework/hw3/cache.h
+

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a16061b7-7ec6-4640-b354-8c737fb9cc77" name="Default Changelist" comment="Added github link inside README.md">
+      <change beforePath="$PROJECT_DIR$/assets/music.mpeg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iLHlxdcIFJETFzoAJWr2G3u73v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a16061b7-7ec6-4640-b354-8c737fb9cc77" name="Default Changelist" comment="" />
+      <created>1601680106887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601680106887</updated>
+      <workItem from="1601680108268" duration="18526000" />
+      <workItem from="1601911134886" duration="138000" />
+      <workItem from="1603215888391" duration="594000" />
+      <workItem from="1604297243773" duration="628000" />
+      <workItem from="1621470379524" duration="1833000" />
+    </task>
+    <task id="LOCAL-00001" summary="Wrote sprite.js">
+      <created>1601698741020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601698741020</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created and wrote player.js">
+      <created>1601699953272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601699953272</updated>
+    </task>
+    <task id="LOCAL-00003" summary="player.js implemented into script.js wth movement. No shooting function yet">
+      <created>1601701313862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601701313862</updated>
+    </task>
+    <task id="LOCAL-00004" summary="created and wrote bullet.js and implemented into player.js, bullets are now shot on spacebar click">
+      <created>1601704559699</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601704559699</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Implemeted invader.js, invaders spawn randomly with random speeds, integrated into index.html and began working on collisions">
+      <created>1601707550252</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601707550253</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Finished collisions between bullets and invaders">
+      <created>1601707946024</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601707946024</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added the text at the top and fixed some bugs with collisions">
+      <created>1601710895677</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601710895677</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Finished adding music and cleaning up code, going to comment now">
+      <created>1601713098198</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601713098198</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added comments and finalized game over screen">
+      <created>1601714194018</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601714194018</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added github link inside README.md">
+      <created>1601714311637</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601714311637</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Wrote sprite.js" />
+    <MESSAGE value="Created and wrote player.js" />
+    <MESSAGE value="player.js implemented into script.js wth movement. No shooting function yet" />
+    <MESSAGE value="created and wrote bullet.js and implemented into player.js, bullets are now shot on spacebar click" />
+    <MESSAGE value="Implemeted invader.js, invaders spawn randomly with random speeds, integrated into index.html and began working on collisions" />
+    <MESSAGE value="Finished collisions between bullets and invaders" />
+    <MESSAGE value="Added the text at the top and fixed some bugs with collisions" />
+    <MESSAGE value="Finished adding music and cleaning up code, going to comment now" />
+    <MESSAGE value="Added comments and finalized game over screen" />
+    <MESSAGE value="Added github link inside README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added github link inside README.md" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1989" y="98" key="SettingsEditor" timestamp="1621471197758">
+      <screen x="1680" y="25" width="1600" height="875" />
+    </state>
+    <state x="1989" y="98" key="SettingsEditor/0.25.1680.932/1680.25.1600.875@1680.25.1600.875" timestamp="1621471197758" />
+  </component>
+</project>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>COVID</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="flex-grid">
+      <div class="col"></div>
+      <div class="col">
+        <h1>Covid Statistics</h1>
+        <label for="country">Choose a country:</label>
+        <select name="country" id="countries">
+          <option value="us">United States of America</option>
+        </select>
+        <div class="flex-grid">
+          <div class="col">
+            <h5>Confirmed</h5>
+            <p id="confirmed">
+              <img src="https://www.countryflags.io/us/flat/24.png" />
+              8,597,407
+            </p>
+          </div>
+          <div class="col">
+            <h5>Active</h5>
+            <p id="active">
+              <img src="https://www.countryflags.io/us/flat/24.png" />
+              2,766,240
+            </p>
+          </div>
+          <div class="col">
+            <h5>Recovered</h5>
+            <p id="recovered">
+              <img src="https://www.countryflags.io/us/flat/24.png" />
+              5,612,505
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col"></div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

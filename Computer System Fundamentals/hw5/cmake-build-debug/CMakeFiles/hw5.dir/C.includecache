@@ -1,0 +1,106 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/braydenarcher/Desktop/CSF Homework/hw5/calc.h
+
+/Users/braydenarcher/Desktop/CSF Homework/hw5/calcInteractive.c
+stdio.h
+-
+csapp.h
+/Users/braydenarcher/Desktop/CSF Homework/hw5/csapp.h
+calc.h
+/Users/braydenarcher/Desktop/CSF Homework/hw5/calc.h
+
+/Users/braydenarcher/Desktop/CSF Homework/hw5/calcServer.c
+stdio.h
+-
+csapp.h
+/Users/braydenarcher/Desktop/CSF Homework/hw5/csapp.h
+calc.h
+/Users/braydenarcher/Desktop/CSF Homework/hw5/calc.h
+
+/Users/braydenarcher/Desktop/CSF Homework/hw5/calcTest.c
+stdio.h
+-
+stdlib.h
+-
+tctest.h
+/Users/braydenarcher/Desktop/CSF Homework/hw5/tctest.h
+calc.h
+/Users/braydenarcher/Desktop/CSF Homework/hw5/calc.h
+
+/Users/braydenarcher/Desktop/CSF Homework/hw5/csapp.c
+csapp.h
+/Users/braydenarcher/Desktop/CSF Homework/hw5/csapp.h
+
+/Users/braydenarcher/Desktop/CSF Homework/hw5/csapp.h
+stdio.h
+-
+stdlib.h
+-
+stdarg.h
+-
+unistd.h
+-
+string.h
+-
+ctype.h
+-
+setjmp.h
+-
+signal.h
+-
+dirent.h
+-
+sys/time.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+sys/mman.h
+-
+errno.h
+-
+math.h
+-
+pthread.h
+-
+semaphore.h
+-
+sys/socket.h
+-
+netdb.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+
+/Users/braydenarcher/Desktop/CSF Homework/hw5/tctest.c
+signal.h
+-
+unistd.h
+-
+tctest.h
+/Users/braydenarcher/Desktop/CSF Homework/hw5/tctest.h
+
+/Users/braydenarcher/Desktop/CSF Homework/hw5/tctest.h
+stdio.h
+-
+string.h
+-
+setjmp.h
+-
+signal.h
+-
+

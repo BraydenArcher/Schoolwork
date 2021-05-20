@@ -1,0 +1,12 @@
+---
+:id: 21716740
+:submitters:
+- :name: BRAYDEN ARCHER
+  :email: barcher9@jhu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-10-07 03:08:38.786994000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-10-06 20:08:38.786994000 Z
+:status: processed
+:score: 96.0003
